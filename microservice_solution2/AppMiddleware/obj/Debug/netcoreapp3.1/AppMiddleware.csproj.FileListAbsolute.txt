@@ -1,0 +1,10 @@
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\bin\Debug\netcoreapp3.1\AppMiddleware.deps.json
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\bin\Debug\netcoreapp3.1\AppMiddleware.dll
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\bin\Debug\netcoreapp3.1\AppMiddleware.pdb
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\obj\Debug\netcoreapp3.1\AppMiddleware.csproj.AssemblyReference.cache
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\obj\Debug\netcoreapp3.1\AppMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\obj\Debug\netcoreapp3.1\AppMiddleware.AssemblyInfoInputs.cache
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\obj\Debug\netcoreapp3.1\AppMiddleware.AssemblyInfo.cs
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\obj\Debug\netcoreapp3.1\AppMiddleware.csproj.CoreCompileInputs.cache
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\obj\Debug\netcoreapp3.1\AppMiddleware.dll
+R:\dev\repos\microservice_solution2\microservice_solution2\microservice_solution2\AppMiddleware\obj\Debug\netcoreapp3.1\AppMiddleware.pdb

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>ItemCart</AssemblyName>
+    <RootNamespace>microservice_solution2.ItemCart</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Shed.CoreKit.WebApi" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Interfaces\AppInterfaces.csproj" />
+    <ProjectReference Include="..\..\Middleware\AppMiddleware.csproj" />
+  </ItemGroup>
+
+</Project>
